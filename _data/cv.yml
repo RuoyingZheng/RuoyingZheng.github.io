@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ruoying Zheng
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. candidate in Psychology
+      institution: University of California San Diego
+      year: starting Sep 2023
+      description: 
+        - Supervised by <a href="https://scholar.google.com.sg/citations?hl=zh-CN&user=jOyTedwAAAAJ"> Dr. Chujun Lin</a>
+    - title: M.S. in Psychology
+      institution: Sun Yat-sen University
+      year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervised by <a href="https://scholar.google.com.sg/citations?hl=zh-CN&user=4enh0nMAAAAJ&view_op=list_works"> Dr. Guomei Zhou</a>
+        
+    - title: LL.B. in Intellectual Property
+      institution: South China University of Technology
+      year: 2014-2018
+      
+    - title: B.Eng. in Computer Science & Technology (Second Degree)
+      institution: South China University of Technology
+      year: 2014-2018
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Social & Cognitive Neuroscience Lab, The University of Hong Kong
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervised by <a href="https://scholar.google.com.sg/citations?hl=en&user=SxV9Em8AAAAJ"> Dr. Xiaoqing Hu </a>
+        
+- title: Academic Skills
+  type: map
+  contents:
+    - name: Research Methods
+      value: Psychophysics, EEG
+    - name: Programming
+      value: MATLAB, E-prime, JavaScript
+    - name: Data Analysis
+      value: MATLAB, SPSS, JASP, Mplus, Python, R
+    - name: Modeling
+      value: Structural equation modeling, Drift-diffusion model, Machine learning
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Training
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Computational Neuroscience Courses
+      institution: Neuromatch Academy
+      year: 2021
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Laboratory Experimental Psychology
+      institution: Sun Yat-sen University
+      year: 2021-2022
+    - title: Teaching Assistant, Industrial and Organizational Psychology
+      institution: Sun Yat-sen University
+      year: 2021
+     
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Graduation Thesis, <i>Sun Yat-sen University</i>
+    - year: 2021
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Excellent Oral Presentation Award, <i>International Joint Forum of Psychological and Cognitive Sciences, Peking University</i>
+        - First Prize Scholarship, <i>Sun Yat-sen University</i>
+    - year: 2020
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Second Prize Scholarship, <i>Sun Yat-sen University</i>
+    - year: 2019
+      items: 
+        - Second Prize Scholarship, <i>Sun Yat-sen University</i>
+    - year: 2017
+      items: 
+        - Excellent Student Cadre, <i>South China University of Technology</i>
+    - year: 2016
+      items: 
+        - Advanced Individual of Social Work, <i>South China University of Technology</i>
+        - Merit Student, <i>South China University of Technology</i>
+        - Third Prize Scholarship, <i>South China University of Technology</i>
