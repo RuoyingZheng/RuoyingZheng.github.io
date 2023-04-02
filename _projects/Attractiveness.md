@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Cheerleader Effect
+title: Attractiveness
 description: How does the context of multiple social groups affect facial attractiveness?
-img: assets/img/cheerleadereffect.jpg
+img: assets/img/Dynamism_1.gif
 importance: 1
-category: Facial Attractiveness
+category: Face Perception
 ---
+
+As an amateur portrait photographer, I love to capture every moment of beauty, but I am more curious about how people perceive and appreciate beauty. Therefore, my previous research mainly focuses on how people perceive facial attractiveness and a group of faces.
+
+# The normality 
+
 
 
 Individuals are more attractive in a group than in isolation (<a href="https://doi.org/10.1177/0956797613497969" target="_blank">Walker & Vul, 2014</a>) , which reflects the influence of the social context on facial attractiveness. 
