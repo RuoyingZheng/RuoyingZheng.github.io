@@ -46,10 +46,10 @@ I am interested in <strong>this beauty of dynamism and its underlying mechanism<
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-2">
-        {% include figure.html path="assets/img/Dynamism_1.gif" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Dynamism_1.gif" title="dynamic face" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-6 mt-md-2">
-        {% include figure.html path="assets/img/Dynamism_2.jpg" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-12 mt-md-2">
+        {% include figure.html path="assets/img/Dynamism_2.jpg" title="static face" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
