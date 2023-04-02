@@ -27,6 +27,6 @@ I am Ruoying Zheng, a Research Assistant in the <a href="https://www.psychology.
 
 I am fascinated by <code class="language-plaintext highlighter-rouge">social cognition</code>. As social animals, we encounter a myriad of people every day. How do we form first impressions of others via their faces and thus influence our subsequent social behaviors? How is this process affected by motion cues and social context? I currently combine behavioral experiments and computational modeling to explore these questions.
 
-In my spare time, I enjoy writing, hiking, and photography. You can view some of my photography work <a href="https://ruoyingzheng.github.io/blog/gallery-index" target="_blank">here</a>.
+In my spare time, I enjoy writing, hiking, and photography. You can view some of my photography work <a href="https://ruoyingzheng.github.io/Miscellany/gallery-index" target="_blank">here</a>.
 
 <br>
