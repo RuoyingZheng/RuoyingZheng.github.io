@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://psychology.hku.hk'>Department of Psychology</a><br><a href='https://hku.hk'>The University of Hong Kong</a></br><br>zhengry@hku.hk | zheng.ry@hku.hk</br>
+subtitle: <a href='https://psychology.hku.hk'>Department of Psychology</a><br><a href='https://hku.hk'>The University of Hong Kong</a></br><br>zhengry@hku.hk | zheng.ry@outlook.com</br>
 
 profile:
   align: right
