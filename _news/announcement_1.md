@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our manuscript titled "Spirit behind appearance: Facial motion increases facial attractiveness through perceived vitality" has been accepted by Psychology of Aesthetics, Creativity, and the Arts 🥳 
+The manuscript entitled 'Spirit behind appearance: Facial motion increases facial attractiveness through perceived vitality' by me, Dr. Yang, and Dr, Zhou has been accepted by Aesthetics, Creativity and the Psychology of Art. 🥳
