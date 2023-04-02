@@ -1,80 +1,26 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Facial Motion
+description: Does facial motion increase facial attractiveness, and what is its underlying mechanism?
+img: assets/img/Dynamism_1.gif
 importance: 2
-category: work
+category: Facial Attractiveness
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+What makes a creation attract the beholders?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Socrates declared that the faithful imitation of the various affections of the body action imparts a particular pleasure to the beholder, and this imitation brings the statues to life (<a href="https://www.gutenberg.org/files/1177/1177-h/1177-h.htm" target="_blank">Xenophon, 2004/2013</a>).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Looking back at the history of aesthetics, beauty seems to go beyond appearance to the spirit behind appearance, shown by portraying body movements (<a href="https://zh.wikipedia.org/zh-cn/%E7%BE%8E%E7%9A%84%E6%AD%B7%E5%8F%B2" target="_blank">Eco, 2004/2007</a>).
+
+I am interested in this beauty of dynamism and its underlying mechanism, and I am currently focusing on the role of vitality (<a href="https://doi.org/10.1167/jov.21.9.2361" target="_blank">Zheng & Zhou, 2021</a>) and attention in it (see <a href="https://doi.org/10.3724/SP.J.1042.2022.01429" target="_blank"> Zhou et al., 2022</a> for the conceptual framework).
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.html path="assets/img/Dynamism_1.gif" title="dynamic face" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.html path="assets/img/Dynamism_2.jpg" title="static face" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
