@@ -16,7 +16,7 @@ Looking back at the history of aesthetics, beauty seems to go beyond appearance 
 I am interested in this beauty of dynamism and its underlying mechanism, and I am currently focusing on the role of vitality (<a href="https://doi.org/10.1167/jov.21.9.2361" target="_blank">Zheng & Zhou, 2021</a>) and attention in it (see <a href="https://doi.org/10.3724/SP.J.1042.2022.01429" target="_blank"> Zhou et al., 2022</a> for the conceptual framework).
 
 <div class="row">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         {% include figure.html path="assets/img/Dynamism_1.gif" title="dynamic face" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
