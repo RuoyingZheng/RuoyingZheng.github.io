@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recognition
-description: How do we identify multiple faces?
+description: How do we identify a group of faces?
 img: assets/img/Recognition.png
 importance: 2
 category: Face Perception
