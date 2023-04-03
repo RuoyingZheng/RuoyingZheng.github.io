@@ -38,7 +38,7 @@ We put forward a new viewpoint that symmetry increases facial attractiveness onl
 
 What makes a creation attract the beholders?
 
-ocrates declared that the faithful imitation of the various affections of the body action imparts a particular pleasure to the beholder, and this imitation brings the statues to life (<a href="https://www.gutenberg.org/files/1177/1177-h/1177-h.htm" target="_blank">Xenophon, 2004/2013</a>).
+Socrates declared that the faithful imitation of the various affections of the body action imparts a particular pleasure to the beholder, and this imitation brings the statues to life (<a href="https://www.gutenberg.org/files/1177/1177-h/1177-h.htm" target="_blank">Xenophon, 2004/2013</a>).
 
 Looking back at the history of aesthetics, beauty seems to go beyond appearance to the spirit behind appearance, shown by portraying body movements (<a href="https://zh.wikipedia.org/zh-cn/%E7%BE%8E%E7%9A%84%E6%AD%B7%E5%8F%B2" target="_blank">Eco, 2004/2007</a>).
 
