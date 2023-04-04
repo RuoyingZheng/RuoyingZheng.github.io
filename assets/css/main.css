@@ -559,6 +559,9 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr .award {
   color: var(--global-theme-color) !important;
   border: 1px solid var(--global-theme-color);
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
