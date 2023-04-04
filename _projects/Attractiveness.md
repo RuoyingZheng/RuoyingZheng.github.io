@@ -25,7 +25,7 @@ We put forward a new viewpoint that symmetry increases facial attractiveness onl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-2">
-        {% include figure.html path="assets/img/Symmetry&Normality.png" title="normality mediated symmetry and attractiveness" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Symmetry&Normality.jpg" title="normality mediated symmetry and attractiveness" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -66,7 +66,7 @@ However, the social groups in the real world are diverse, with different genders
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-2">
-        {% include figure.html path="assets/img/MultipleSocialGroups.png" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MultipleSocialGroups.jpg" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
