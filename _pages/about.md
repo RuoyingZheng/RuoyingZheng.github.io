@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://psychology.ucsd.edu/'>Department of Psychology, UC San Diego</a>. r7zheng@ucsd.edu
+subtitle: <a href='https://psychology.ucsd.edu/'>Department of Psychology<br>UC San Diego</br></a>. <br>r7zheng@ucsd.edu</br>
 
 profile:
   align: right
