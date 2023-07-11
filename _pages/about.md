@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://psychology.hku.hk'>Department of Psychology</a><br><a href='https://hku.hk'>The University of Hong Kong</a></br><br>r7zheng@ucsd.edu</br>
+subtitle: <a href='https://psychology.ucsd.edu/'>Department of Psychology, UC San Diego</a>. r7zheng@ucsd.edu
 
 profile:
   align: right
