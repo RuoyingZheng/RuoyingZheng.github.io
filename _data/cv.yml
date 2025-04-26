@@ -36,35 +36,6 @@
       year: 2022 - 2023
       description:
         - Supervisor: <a href="https://scholar.google.com.sg/citations?hl=en&user=SxV9Em8AAAAJ">Dr. Xiaoqing Hu</a>
-        
-- title: Academic Skills
-  type: map
-  contents:
-    - name: Research Methods
-      value: Psychophysics, EEG
-    - name: Programming
-      value: MATLAB, E-prime, JavaScript
-    - name: Data Analysis
-      value: MATLAB, SPSS, JASP, Mplus, Python, R
-    - name: Modeling
-      value: Structural equation modeling, Drift-diffusion model, Machine learning
-
-- title: Training
-  type: time_table
-  contents:
-    - title: Computational Neuroscience Courses
-      institution: Neuromatch Academy
-      year: 2021
-
-# - title: Teaching Experience
-#   type: time_table
-#   contents:
-#     - title: Teaching Assistant, Laboratory Experimental Psychology
-#       institution: Sun Yat-sen University
-#       year: 2021-2022
-#     - title: Teaching Assistant, Industrial and Organizational Psychology
-#       institution: Sun Yat-sen University
-#       year: 2021
 
 - title: Honors and Awards
   type: time_table
@@ -93,3 +64,38 @@
         - Outstanding Individual Award for Social Practice, <i>South China University of Technology</i>
         - Outstanding Student Award, <i>South China University of Technology</i>
         - Third Prize Scholarship, <i>South China University of Technology</i>
+        
+- title: Academic Skills
+  type: map
+  contents:
+    - name: Research Methods
+      value: Psychophysics, EEG
+    - name: Programming
+      value: MATLAB, E-prime, JavaScript
+    - name: Data Analysis
+      value: MATLAB, SPSS, JASP, Mplus, Python, R
+    - name: Modeling
+      value: Structural equation modeling, Drift-diffusion model, Machine learning
+
+- title: Training
+  type: time_table
+  contents:
+    - title: Computational Neuroscience Courses
+      institution: Neuromatch Academy
+      year: 2021
+      
+- title: Service
+  type: map
+  contents:
+    - name: Ad Hoc Reviewer
+      value: BMC Psychology
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Laboratory Experimental Psychology
+      institution: Sun Yat-sen University
+      year: 2021-2022
+    - title: Teaching Assistant, Industrial and Organizational Psychology
+      institution: Sun Yat-sen University
+      year: 2021
