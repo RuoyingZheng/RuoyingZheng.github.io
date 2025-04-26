@@ -17,4 +17,7 @@
 "PsyArXiv":
   url: https://osf.io/preprints/psyarxiv
   color: "#BE333B"
- 
+
+"SocCogn":
+  url: https://guilfordjournals.com/journal/soco
+  color: "#BC6C1B"
