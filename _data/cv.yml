@@ -92,7 +92,7 @@
     - name: Ad Hoc Reviewer
       value: BMC Psychology
 
-- title: Teaching Experience
+- title: 
   type: time_table
   contents:
     - title: Teaching Assistant, Laboratory Experimental Psychology
@@ -101,3 +101,17 @@
     - title: Teaching Assistant, Industrial and Organizational Psychology
       institution: Sun Yat-sen University
       year: 2021
+
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: Teaching Assistant, University of California San Diego
+      items:
+        - PSYC 137 - Social Cognition (Winter 2025)
+        - DPSYC 174 - Visual Cognition (Fall 2024)
+        - PSYC 100 - Clinical Psychology (Winter 2024)
+    - title: Teaching Assistant, Sun Yat-sen University
+      items:
+        - "Experimental Psychology: Lab (Fall 2021)"
+        - Industrial and Organizational Psychology (Spring 2021)
+
