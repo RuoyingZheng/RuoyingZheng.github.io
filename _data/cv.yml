@@ -56,20 +56,23 @@
       institution: Neuromatch Academy
       year: 2021
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant, Laboratory Experimental Psychology
-      institution: Sun Yat-sen University
-      year: 2021-2022
-    - title: Teaching Assistant, Industrial and Organizational Psychology
-      institution: Sun Yat-sen University
-      year: 2021
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant, Laboratory Experimental Psychology
+#       institution: Sun Yat-sen University
+#       year: 2021-2022
+#     - title: Teaching Assistant, Industrial and Organizational Psychology
+#       institution: Sun Yat-sen University
+#       year: 2021
      
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Graduate Registration Stipend, <i>Society for Personality and Social Psychology’s Annual Convention</i>
     - year: 2022
       items: 
         - Outstanding Graduation Thesis, <i>Sun Yat-sen University</i>
