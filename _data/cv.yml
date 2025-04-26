@@ -15,12 +15,12 @@
       institution: University of California San Diego
       year: 2023-
       description: 
-        - Advisor: <a href="https://www.chujunlin.com/">Dr. Chujun Lin</a>
+        - Advised by <a href="https://www.chujunlin.com/">Dr. Chujun Lin</a>
     - title: M.S. in Psychology
       institution: Sun Yat-sen University
       year: 2019-2022
       description:
-        - Advisor: <a href="https://scholar.google.com/citations?user=4enh0nMAAAAJ&hl=en&oi=ao">Dr. Guomei Zhou</a>
+        - Advised by <a href="https://scholar.google.com/citations?user=4enh0nMAAAAJ&hl=en&oi=ao">Dr. Guomei Zhou</a>
         
     - title: LL.B. in Intellectual Property
       institution: South China University of Technology
@@ -37,7 +37,7 @@
       institution: Social & Cognitive Neuroscience Lab, The University of Hong Kong
       year: 2022 - 2023
       description:
-        - Supervisor: <a href="https://scholar.google.com.sg/citations?hl=en&user=SxV9Em8AAAAJ">Dr. Xiaoqing Hu</a>
+        - Supervised by <a href="https://scholar.google.com.sg/citations?hl=en&user=SxV9Em8AAAAJ">Dr. Xiaoqing Hu</a>
 
 - title: Honors and Awards
   type: time_table
@@ -112,6 +112,6 @@
         - PSYC 100 - Clinical Psychology (Winter 2024)
     - title: Teaching Assistant, Sun Yat-sen University
       items:
-        - Experimental Psychology: Lab (Fall 2021)
+        - Experimental Psychology - Lab (Fall 2021)
         - Industrial and Organizational Psychology (Spring 2021)
 
