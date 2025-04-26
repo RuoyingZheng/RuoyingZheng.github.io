@@ -1,7 +1,9 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for content in entry.contents %}
     <li class="list-group-item">
-      <p class="font-weight-bold mb-1">{{ content.title }}</p>
+      <p style="font-size: 1rem; font-weight: bold; margin-bottom: 0.5rem; color: var(--global-text-color);">
+        {{ content.title }}
+      </p>
       {% if content.items %}
         <ul class="subitems">
           {% for subitem in content.items %}
