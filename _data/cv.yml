@@ -6,7 +6,7 @@
     - name: Languages
       value: Chinese, English
     - name: Email
-      value: r7zheng@ucsd.edu, zhengry6@gmail.com
+      value: <a href="mailto:r7zheng@ucsd.edu">r7zheng@ucsd.edu</a>, <a href="mailto:zheng.ry@outlook.com">zheng.ry@outlook.com</a>
 
 - title: Education
   type: time_table
