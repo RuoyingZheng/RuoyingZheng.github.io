@@ -13,9 +13,8 @@
   contents:
     - title: Ph.D. Student in Experimental Psychology
       year: 2023-
-      location: La Jolla, USA
+      - location: La Jolla, USA
       institution: University of California San Diego
-      department: Department of Psychology
       description: 
         - Advised by <a href="https://www.chujunlin.com/">Dr. Chujun Lin</a>
     - title: M.S. in Psychology
