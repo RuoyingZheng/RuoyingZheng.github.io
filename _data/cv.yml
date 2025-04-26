@@ -13,25 +13,21 @@
   contents:
     - title: Ph.D. Student in Experimental Psychology
       year: 2023-
-      - location: La Jolla, USA
       institution: University of California San Diego
       description: 
         - Advised by <a href="https://www.chujunlin.com/">Dr. Chujun Lin</a>
     - title: M.S. in Psychology
       institution: Sun Yat-sen University
-      location: Guangzhou, China
       year: 2019-2022
       description:
         - Advised by <a href="https://scholar.google.com/citations?user=4enh0nMAAAAJ&hl=en&oi=ao">Dr. Guomei Zhou</a>
         
     - title: LL.B. in Intellectual Property
       institution: South China University of Technology
-      location: Guangzhou, China
       year: 2014-2018
       
     - title: B.Eng. in Computer Science & Technology (Second Degree)
       institution: South China University of Technology
-      location: Guangzhou, China
       year: 2014-2018
 
 - title: Research Experience
