@@ -28,8 +28,8 @@ nav_order: 1
 
 {% bibliography -f manuscripts %}
   
-<h1>Conference</h1>
+<h1>Presentations</h1>
 
-{% bibliography -f conference %}
+{% bibliography -f presentations %}
 
 </div>
