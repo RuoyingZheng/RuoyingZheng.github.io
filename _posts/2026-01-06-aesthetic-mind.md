@@ -53,9 +53,6 @@ _styles: >
 >
 > — Chuang Tzu, *Knowledge Wandered North*
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
 In classical Daoist thought, beauty is neither a human invention nor a symbolic construct imposed upon the world. It is not crafted, declared, or even necessarily reflected upon. Rather, it arises spontaneously from the patterned regularities of nature, which governing the rhythms of seasons, the organization of living forms, and the unfolding of change itself. Although articulated in a metaphysical idiom, Chuang Tzu’s insight poses a question that resonates strongly with contemporary anthropological and evolutionary inquiry: Are aesthetic capacities best understood as a product of cultural construction, or as an expression of evolved perceptual and cognitive adaptations to ecological environments?
 
 For a long time, particularly under the influence of the European Enlightenment, aesthetics has been viewed as a uniquely human achievement—a high-level hallmark of culture involving abstract thought and "disinterested" appreciation. However, when we look back at the deep past and across the vast natural world, we see prehistoric rock art, tribal rituals, ornamental traits in animals, and the elaborate courtship dances of birds. It becomes clear that the "love of beauty" is woven into the very fabric of life’s long evolutionary history. It is not a cultural luxury, but a survival script written into our biology by ancestors who navigated the rigors of nature, mate choice, and social cooperation.
