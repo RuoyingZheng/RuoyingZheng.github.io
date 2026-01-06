@@ -8,27 +8,29 @@
     - name: Email
       value: <a href="mailto:r7zheng@ucsd.edu">r7zheng@ucsd.edu</a>, <a href="mailto:zheng.ry@outlook.com">zheng.ry@outlook.com</a>
 
+
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. Student in Experimental Psychology
-      year: 2023-
-      institution: University of California San Diego
-      description: 
-        - Advised by <a href="https://www.chujunlin.com/">Dr. Chujun Lin</a>
+      institution: University of California San Diego, La Jolla, USA
+      year: expected 2028
+      description:
+        - Advised by <a href="https://impactlab-columbia.github.io/">Dr. Chujun Lin</a> and <a href="https://winkielmanlab.ucsd.edu/">Dr. Piotr Winkielman</a>
+
     - title: M.S. in Psychology
-      institution: Sun Yat-sen University
-      year: 2019-2022
+      institution: Sun Yat-sen University, Guangzhou, China
+      year: 2022
       description:
         - Advised by <a href="https://scholar.google.com/citations?user=4enh0nMAAAAJ&hl=en&oi=ao">Dr. Guomei Zhou</a>
         
     - title: LL.B. in Intellectual Property
-      institution: South China University of Technology
-      year: 2014-2018
+      institution: South China University of Technology, Guangzhou, China
+      year: 2018
       
     - title: B.Eng. in Computer Science & Technology (Second Degree)
-      institution: South China University of Technology
-      year: 2014-2018
+      institution: South China University of Technology, Guangzhou, China
+      year: 2018
 
 - title: Research Experience
   type: time_table
@@ -66,7 +68,7 @@
         - Outstanding Individual Award for Social Practice, <i>South China University of Technology</i>
         - Outstanding Student Award, <i>South China University of Technology</i>
         - Third Prize Scholarship, <i>South China University of Technology</i>
-        
+
 - title: Academic Skills
   type: map
   contents:
@@ -85,7 +87,7 @@
     - title: Computational Neuroscience Courses
       institution: Neuromatch Academy
       year: 2021
-      
+
 - title: Service
   type: map
   contents:
@@ -97,6 +99,7 @@
   contents:
     - title: Teaching Assistant, University of California San Diego
       items:
+        - PSYC 122 - Mechanisms of Animal Behavior (Fall 2025)
         - PSYC 137 - Social Cognition (Winter 2025)
         - DPSYC 174 - Visual Cognition (Fall 2024)
         - PSYC 100 - Clinical Psychology (Winter 2024)
@@ -104,4 +107,3 @@
       items:
         - Experimental Psychology - Lab (Fall 2021)
         - Industrial and Organizational Psychology (Spring 2021)
-
