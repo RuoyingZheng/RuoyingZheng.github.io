@@ -8,7 +8,6 @@
     - name: Email
       value: <a href="mailto:r7zheng@ucsd.edu">r7zheng@ucsd.edu</a>, <a href="mailto:zheng.ry@outlook.com">zheng.ry@outlook.com</a>
 
-
 - title: Education
   type: time_table
   contents:
@@ -17,17 +16,14 @@
       year: expected 2028
       description:
         - Advised by <a href="https://impactlab-columbia.github.io/">Dr. Chujun Lin</a> and <a href="https://winkielmanlab.ucsd.edu/">Dr. Piotr Winkielman</a>
-
     - title: M.S. in Psychology
       institution: Sun Yat-sen University, Guangzhou, China
       year: 2022
       description:
         - Advised by <a href="https://scholar.google.com/citations?user=4enh0nMAAAAJ&hl=en&oi=ao">Dr. Guomei Zhou</a>
-        
     - title: LL.B. in Intellectual Property
       institution: South China University of Technology, Guangzhou, China
       year: 2018
-      
     - title: B.Eng. in Computer Science & Technology (Second Degree)
       institution: South China University of Technology, Guangzhou, China
       year: 2018
@@ -48,23 +44,23 @@
       items:
         - Graduate Registration Stipend, <i>Society for Personality and Social Psychology’s Annual Convention</i>
     - year: 2022
-      items: 
+      items:
         - Outstanding Graduation Thesis, <i>Sun Yat-sen University</i>
     - year: 2021
-      items: 
+      items:
         - Outstanding Oral Presentation Award, <i>International Forum of Psychological and Cognitive Sciences, Peking University</i>
         - First Prize Scholarship, <i>Sun Yat-sen University</i>
     - year: 2020
-      items: 
+      items:
         - Second Prize Scholarship, <i>Sun Yat-sen University</i>
     - year: 2019
-      items: 
+      items:
         - Second Prize Scholarship, <i>Sun Yat-sen University</i>
     - year: 2017
-      items: 
+      items:
         - Outstanding Student Leader Award, <i>South China University of Technology</i>
     - year: 2016
-      items: 
+      items:
         - Outstanding Individual Award for Social Practice, <i>South China University of Technology</i>
         - Outstanding Student Award, <i>South China University of Technology</i>
         - Third Prize Scholarship, <i>South China University of Technology</i>
