@@ -3,7 +3,7 @@
     "name": "Ruoying Zheng",
     "label": "",
     "image": "",
-    "email": "r7zheng@ucsd.edu; zheng.ry@outlook.com",
+    "email": "r7zheng@ucsd.edu; zheng.ry@outlook.com"
   },
 
   "education": [
@@ -18,7 +18,7 @@
       "score": "",
       "courses": ["Advised by Dr. Chujun Lin and Dr. Piotr Winkielman"]
     },
-    
+
     {
       "institution": "Sun Yat-sen University",
       "location": "Guangzhou, China",
@@ -54,7 +54,6 @@
     }
   ],
 
-
   "work": [
     {
       "name": "Social & Cognitive Neuroscience Lab, The University of Hong Kong",
@@ -66,7 +65,6 @@
     }
   ],
 
-
   "awards": [
     {
       "title": "Graduate Registration Stipend",
@@ -75,7 +73,6 @@
       "url": "",
       "summary": ""
     },
-
     {
       "title": "Outstanding Graduation Thesis",
       "date": "2022",
@@ -96,7 +93,7 @@
       "awarder": "Sun Yat-sen University",
       "url": "",
       "summary": ""
-    }, 
+    },
     {
       "title": "Second Prize Scholarship",
       "date": "2020",
@@ -138,40 +135,24 @@
       "awarder": "South China University of Technology",
       "url": "",
       "summary": ""
-    } 
+    }
   ],
-
-
 
   "skills": [
     {
       "name": "Research Methods",
-      "keywords": [
-        "Psychophysics",
-        "EEG"
-      ]
+      "keywords": ["Psychophysics", "EEG"]
     },
     {
       "name": "Programming",
-      "keywords": [
-        "MATLAB",
-        "E-prime",
-        "JavaScript"
-      ]
+      "keywords": ["MATLAB", "E-prime", "JavaScript"]
     },
     {
       "name": "Data Analysis",
-      "keywords": [
-        "MATLAB",
-        "SPSS",
-        "JASP",
-        "Mplus",
-        "Python",
-        "R"
-      ]
+      "keywords": ["MATLAB", "SPSS", "JASP", "Mplus", "Python", "R"]
     }
   ],
-  
+
   "languages": [
     {
       "language": "English",
