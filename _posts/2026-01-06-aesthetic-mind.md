@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: The human aesthetic mind
 description: The origin and evolution of human aesthetic mind
 tags: aesthetics evolution anthropogeny cognition
