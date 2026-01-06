@@ -41,11 +41,11 @@ _styles: >
   }
 ---
 
-> “Heaven and earth have their great beauties but do not speak of them;  
+> Heaven and earth have their great beauties but do not speak of them;  
 > the four seasons have their clear-marked regularity but do not discuss it;  
-> the ten thousand things have their principles of growth but do not expound them.”
+> the ten thousand things have their principles of growth but do not expound them.
 >
-> _“天地有大美而不言，四时有明法而不议，万物有成理而不说。”_
+> _天地有大美而不言，四时有明法而不议，万物有成理而不说。_
 >
 > — Chuang Tzu, _Knowledge Wandered North_
 
