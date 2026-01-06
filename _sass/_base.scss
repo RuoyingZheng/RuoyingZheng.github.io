@@ -419,19 +419,19 @@ ul.task-list input[type="checkbox"] {
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 2.4rem;   // 原来 3.2rem
+        height: 2.4rem;
+        margin-bottom: 0.8rem;
       }
-
+  
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
-
+        width: 2.6rem;   // 原来 3.5rem
+        height: 3rem;    // 原来 4rem
+        margin-bottom: 0.4rem;
+  
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 2.6rem;
+          height: 2.6rem;
         }
       }
 
