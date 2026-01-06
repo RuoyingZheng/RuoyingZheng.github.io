@@ -2,7 +2,11 @@
 layout: post
 title: The human aesthetic mind
 description: The origin and evolution of human aesthetic mind
-tags: aesthetics
+tags: 
+  aesthetics
+  evolution
+  anthropogeny
+  cognition
 categories: theoretical-review
 giscus_comments: true
 date: 2026-01-05 01:16:00-0800
