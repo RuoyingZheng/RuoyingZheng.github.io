@@ -49,10 +49,10 @@ I am interested in <strong>this beauty of dynamism and its underlying mechanism<
 
 <div class="row" align="center">
     <div class="col-sm mt-2 mt-md-2">
-        {% include figure.html path="assets/img/Dynamism_1.gif" title="dynamic face" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Dynamism_1.gif" title="dynamic face" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-2">
-        {% include figure.html path="assets/img/Dynamism_2.jpg" title="static face" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Dynamism_2.jpg" title="static face" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -69,6 +69,6 @@ However, the social groups in the real world are diverse, with different genders
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-2">
-        {% include figure.html path="assets/img/MultipleSocialGroups.jpg" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/MultipleSocialGroups.jpg" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
