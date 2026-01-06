@@ -48,17 +48,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/aesthetic-mind/";
           
         },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
