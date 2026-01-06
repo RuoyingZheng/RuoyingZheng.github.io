@@ -8,7 +8,6 @@ category: Face Perception
 related_publications: true
 ---
 
-
 <br>
 
 As an amateur portrait photographer, I love to capture every moment of beauty, but I am more curious about <strong>how people perceive and appreciate beauty</strong>. Therefore, my previous research mainly focuses on <strong>how people perceive facial attractiveness</strong>.
