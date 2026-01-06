@@ -16,7 +16,7 @@
       "startDate": "2023",
       "endDate": "expeceted 2018",
       "score": "",
-      "description": "Advised by Dr. Chujun Lin and Dr. Piotr Winkielman"
+      "courses": ["Advised by Dr. Chujun Lin and Dr. Piotr Winkielman"]
     },
     
     {
@@ -28,7 +28,7 @@
       "startDate": "2019",
       "endDate": "2022",
       "score": "",
-      "description": "Advised by Dr. Guomei Zhou"
+      "courses": ["Advised by Dr. Guomei Zhou"]
     },
 
     {
@@ -55,14 +55,14 @@
   ],
 
 
-  "research experience": [
+  "work": [
     {
       "name": "Social & Cognitive Neuroscience Lab, The University of Hong Kong",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2022",
       "endDate": "2023",
-      "description": "Advised by Dr. Xiaoqing Hu"
+      "summary": "Advised by Dr. Xiaoqing Hu"
     }
   ],
 
