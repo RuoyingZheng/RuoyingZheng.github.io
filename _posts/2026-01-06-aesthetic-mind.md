@@ -45,9 +45,9 @@ _styles: >
 > the four seasons have their clear-marked regularity but do not discuss it;  
 > the ten thousand things have their principles of growth but do not expound them.”
 >
-> *“天地有大美而不言，四时有明法而不议，万物有成理而不说。”*
+> _“天地有大美而不言，四时有明法而不议，万物有成理而不说。”_
 >
-> — Chuang Tzu, *Knowledge Wandered North*
+> — Chuang Tzu, _Knowledge Wandered North_
 
 In classical Daoist thought, beauty is neither a human invention nor a symbolic construct imposed upon the world. It is not crafted, declared, or even necessarily reflected upon. Rather, it arises spontaneously from the patterned regularities of nature, which governing the rhythms of seasons, the organization of living forms, and the unfolding of change itself. Although articulated in a metaphysical idiom, Chuang Tzu’s insight poses a question that resonates strongly with contemporary anthropological and evolutionary inquiry: Are aesthetic capacities best understood as a product of cultural construction, or as an expression of evolved perceptual and cognitive adaptations to ecological environments?
 
