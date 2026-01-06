@@ -18,7 +18,7 @@ chart:
 tikzjax: true
 typograms: true
 
-bibliography: 2018-12-22-distill.bib
+bibliography: 2026-01-06-aesthetics.bib
 
 toc:
   sidebar: left
