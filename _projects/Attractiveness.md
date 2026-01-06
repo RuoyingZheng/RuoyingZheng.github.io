@@ -5,7 +5,10 @@ description: What is the attractive face(s)?
 img: assets/img/Dynamism_1.gif
 importance: 1
 category: Face Perception
+related_publications: true
 ---
+
+
 <br>
 
 As an amateur portrait photographer, I love to capture every moment of beauty, but I am more curious about <strong>how people perceive and appreciate beauty</strong>. Therefore, my previous research mainly focuses on <strong>how people perceive facial attractiveness</strong>.
@@ -21,7 +24,7 @@ Face, as a high-level visual stimulus, has an irreplaceable role in interpersona
 
 Although symmetry, averageness, and sexual dimorphism are usually considered important to facial attractiveness, there are mixed findings regarding <strong>whether and how symmetry influences facial attractiveness</strong>.
 
-We put forward a new viewpoint that symmetry increases facial attractiveness only when it improves <code class="language-plaintext highlighter-rouge">facial normality</code> to explain the inconsistency of previous studies (<a href="https://doi.org/10.1016/j.actpsy.2021.103311" target="_blank">Zheng et al., 2021</a>). Using structural equation model, we found that normality but not symmetry predicted facial attractiveness. Symmetry may increase facial attractiveness by increasing the perceived symmetry and then improving perceived normality. 
+We put forward a new viewpoint that symmetry increases facial attractiveness only when it improves <code class="language-plaintext highlighter-rouge">facial normality</code> to explain the inconsistency of previous studies {% cite zheng2021normality %}. Using structural equation model, we found that normality but not symmetry predicted facial attractiveness. Symmetry may increase facial attractiveness by increasing the perceived symmetry and then improving perceived normality.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-2">
@@ -60,7 +63,7 @@ I am interested in <strong>this beauty of dynamism and its underlying mechanism<
 
 <br>
 
-Individuals are more attractive in a group than in isolation (<a href="https://doi.org/10.1177/0956797613497969" target="_blank">Walker & Vul, 2014</a>) , which reflects <strong>the influence of the social context on facial attractiveness</strong>. 
+Individuals are more attractive in a group than in isolation (<a href="https://doi.org/10.1177/0956797613497969" target="_blank">Walker & Vul, 2014</a>) , which reflects <strong>the influence of the social context on facial attractiveness</strong>.
 
 However, the social groups in the real world are diverse, with different genders, ages, races, etc. There are various relations between these social groups. Therefore, I am curious about how the context with <code class="language-plaintext highlighter-rouge">multiple social groups</code> and the triadic relations of the observer, target, and context influence attractiveness perception.
 
@@ -69,4 +72,3 @@ However, the social groups in the real world are diverse, with different genders
         {% include figure.html path="assets/img/MultipleSocialGroups.jpg" title="The cheerleader effect in multiple social groups" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
