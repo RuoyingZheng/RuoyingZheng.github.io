@@ -3,13 +3,12 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [2025,2024,2022,2021]
+years: [2025, 2024, 2022, 2021]
 nav: true
 nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
-
 
 <div class="publications">
 
@@ -27,7 +26,7 @@ nav_order: 1
 <h1>Manuscripts</h1>
 
 {% bibliography -f manuscripts %}
-  
+
 <h1>Presentations</h1>
 
 {% bibliography -f presentations %}
