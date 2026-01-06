@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: The human aesthetic mind
 description: The origin and evolution of human aesthetic mind
 tags: distill formatting
