@@ -2,7 +2,7 @@
 layout: distill
 title: Ants outperform humans?
 description: A recent study finds that ants benefit from group cooperation, whereas humans do not.
-tags: cooperation collective intelligence cognition
+tags: cooperation collective_intelligence cognition
 categories: pitch
 giscus_comments: true
 date: 2025-03-10 03:02:00-0800
