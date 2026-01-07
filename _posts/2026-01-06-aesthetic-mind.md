@@ -22,7 +22,7 @@ typograms: true
 authors:
   - name: Ruoying Zheng
   - affiliations:
-      name: The University of California, San Diego
+      name: UCSD
 
 bibliography: 2026-01-06-aesthetics.bib
 
