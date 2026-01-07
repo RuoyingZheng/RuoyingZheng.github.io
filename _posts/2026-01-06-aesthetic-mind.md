@@ -19,9 +19,23 @@ chart:
 tikzjax: true
 typograms: true
 
+authors:
+  - name: Ruoying Zheng
+
 bibliography: 2026-01-06-aesthetics.bib
 
 toc:
+  - name: The origin of human aesthetics
+    - subsections:
+      - name: The dawn of art in the early paleolithic
+      - name: The emergence of symbols in the middle paleolithic
+      - name: The art explosion in upper paleolithic
+  - name: Why aesthetics emerges and evolves
+    - subsections:
+      - name: Biological foundations: The driving force of survival and reproduction
+      - name: Cultural evolution: the social brain and group survival
+      - name: Co-evolution: the dual inheritance of genes and culture
+  - name: Conclusion
   sidebar: left
 ---
 
@@ -41,4 +55,6 @@ To understand human aesthetic minds, we must first break free from the shackles 
 
 Exploring human aesthetic minds, therefore, is not simply about how we appreciate a painting or a piece of music; it is fundamentally about understanding how the human mind has been shaped over millions of years of hunter-gatherer life. If aesthetic capacity is the product of a coevolution between genes and culture, then to find its origin, we must return to the very source of human creation.
 
-## The dawn of art in the early paleolithic
+## The origin of human aesthetics
+
+### The dawn of art in the early paleolithic
