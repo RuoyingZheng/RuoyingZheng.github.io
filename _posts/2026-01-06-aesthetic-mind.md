@@ -21,13 +21,16 @@ typograms: true
 
 authors:
   - name: Ruoying Zheng
-  - affiliations:
-      name: UCSD
+  - affiliations: UCSD
 
 bibliography: 2026-01-06-aesthetics.bib
 
 toc:
-  sidebar: left
+  - name: The dawn of art in the early paleolithic
+  - name: The emergence of symbols in the middle paleolithic
+  - name: The art explosion in upper paleolithic
+  - name: Why aesthetics emerges and evolves
+  - name: Conclusion
 
 _styles: >
   .fake-img {
