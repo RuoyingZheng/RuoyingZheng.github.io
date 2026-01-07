@@ -79,6 +79,7 @@ The extraordinary temporal and geographic stability of Acheulean handaxes over m
 Similar to aesthetic preferences observed in other animals, such forms can be understood as arising from sexual selection. Finely made and highly symmetrical handaxes may have functioned both as costly signals in the sense of the handicap principle and as aesthetic displays that exploited evolved perceptual sensitivities to symmetry. Through this dual mechanisms, handaxes acted as honest signals of individual quality, conveying multiple adaptive dimensions, including planning ability, motor control, access to resources, and social competence <d-cite key="kohn1999handaxes"></d-cite>. Therefore, Acheulean handaxes are best understood not primarily as culturally symbolic artefacts, but as material expressions of evolutionarily stabilized aesthetic predispositions, grounded in both inherited biases and emerging cognitive abilities.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/01Acheuleanhandaxes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Acheulean handaxes (Mithen, 2003)
 </div>
@@ -86,6 +87,7 @@ Similar to aesthetic preferences observed in other animals, such forms can be un
 Evidence from the Lower Paleolithic is not limited to the aesthetic elaboration of utilitarian tools. At the Homo erectus site of Trinil in Java, a freshwater mussel shell dated to ~500 ka was found bearing a deliberately engraved zigzag-like geometric pattern <d-cite key="joordens2015homo"></d-cite>. These incisions were intentionally produced by hominins, rather than resulting from natural abrasion or taphonomic processes. Although the function or meaning of the engraving cannot currently be determined, the presence of such deliberate geometric incisions, often considered markers of modern cognition and behavior, provides tentative evidence that _Homo erectus_ may already have possessed an emerging capacity for symbolic meaning and rudimentary aesthetic capacity of symbolic art. In this early stage, aesthetic preferences also appear to have been expressed as an interest in visually unusual objects. Archaeological evidence indicates that early hominins, including _Homo erectus_ and _Neanderthals_, collected and transported items such as crystals, fossils, or stones with distinctive shapes <d-cite key="kuhn2007paleolithic"></d-cite>.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/02TrinilShell.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     The engraving on shells by the Homo erectus at the Trinil site on Java (Joordens et al., 2015)
 </div>
@@ -99,6 +101,7 @@ The Middle Paleolithic (~300–50 ka) witnessed the emergence of modern humans (
 One of the clearest archaeological indicators of this shift is the widespread use of mineral pigments, particularly red ochre (iron oxide rich minerals). Across multiple sites in Africa and the Near East, ochre pieces bearing traces of grinding, scraping, and heat treatment document deliberate pigment production rather than incidental use <d-cite key="henshilwood2011100"></d-cite>. At 92,000-year old Qafzeh Cave, red ochre appears to have been deliberately selected and deposited within mortuary contexts, interpreted as culturally structured color symbolism <d-cite key="hovers2003early"></d-cite>. Evidence from the Levant indicates that during the mid–Middle Paleolithic (~130–80 ka), different Homo groups converged on a shared set of behaviors, including similar lithic technologies, increased reliance on large-game hunting, and socially elaborated practices such as intentional burial and the use of ochre in mortuary contexts <d-cite key="zaidner2025evidence"></d-cite>. In this context, mineral pigments functioned not merely as aesthetic substances, but as socially meaningful media embedded in practices of decoration, identity signaling, and ritual action, marking an important transitional stage between biologically grounded aesthetic sensitivities and culturally evolved symbolic expression.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/03TinshemetCave.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Different types of ochre from Tinshemet Cave and their association with human and animal bones (Zaidner et al., 2025)
 </div>
@@ -106,6 +109,7 @@ One of the clearest archaeological indicators of this shift is the widespread us
 Personal ornamentation provides the complementary evidence for the emergence of symbolic aesthetics during the Middle Paleolithic. Unlike pigment use, which could be applied in multiple contexts, ornaments constitute durable, portable objects designed to be displayed on the body, making them particularly well suited for social signaling. The earliest known personal ornaments date to this period: at Bizmoune Cave in Morocco, perforated marine shell beads dated to ~150–142 ka exhibit systematic perforation and use-wear, indicating that they were strung and worn as body adornments <d-cite key="sehasseh2021early"></d-cite>. At Blombos Cave in South Africa, perforated marine shell beads recovered dated to ~75–77 ka constitute the evidence for the habitual use of personal ornaments <d-cite key="henshilwood2004middle"></d-cite>. These beads represent standardized and repeatable visual elements, marking a shift from isolated collections of visually unusual objects toward the deliberate production of patterned symbolic forms. Such ornaments are widely interpreted as media of non-verbal communication, conveying information about identity, group affiliation, or social relationships <d-cite key="kuhn2007paleolithic"></d-cite>. Their appearance therefore signals not only advances in abstract representation, but also changes in social organization, including expanded social networks and increased interaction beyond immediate kin groups.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/04NkraussianusBeads.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Perforated _N. kraussianus_ beads from the Middle Stone Age of Blombos Cave (Henshilwood et al., 2004)
 </div>
@@ -113,6 +117,7 @@ Personal ornamentation provides the complementary evidence for the emergence of 
 Early Homo sapiens also produced deliberately engraved abstract markings alongside the use of personal ornaments. Evidence from Blombos Cave and Diepkloof Rock Shelter in southern Africa includes engraved ochre pieces with regular geometric. A particularly well-known ochre fragment from Blombos Cave, dated to ~75 ka, features intersecting linear motifs and is widely considered the earliest secure evidence of intentional geometric marking <d-cite key="henshilwood2016emergence"></d-cite>.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/05EngravedOchres.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Engraved ochres from Blombos Cave (Henshilwood et al., 2016)
 </div>
@@ -126,6 +131,7 @@ The Upper Paleolithic (~50–10 ka) is widely regarded as a period of intensifie
 Cave art represents one of the most prominent forms of Upper Paleolithic aesthetic engagement. More than 200 caves in Europe, particularly in France and Spain, preserve paintings and engravings dated primarily between ~40 and 10 ka <d-cite key="lewis1998mind"></d-cite>. Iconic examples include the animal paintings of Chauvet Cave (~37 ka), the bison imagery of Altamira (~35 ka), and the large-scale polychrome compositions of Lascaux (~17 ka). These works are characterized by highly naturalistic and dynamic depictions of animals, accompanied by abstract signs and occasional human figures, and widely interpreted as reflecting ritual, mythological, or cosmological dimensions of Upper Paleolithic societies, rather than purely decorative practices. Upper Paleolithic cave art extends beyond Europe, with early figurative examples also documented in Indonesia, such as the Sulawesi warty pig painting from Leang Bulu’ Sipong 4 dated to at least 43.9 ka <d-cite key="brumm2021oldest"></d-cite>. Therefore, the origins of complex art are not confined to any single region but may have emerged simultaneously across the globe or through multiple independent developments.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/06pig.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Dated painting of a pig at Leang Balangajia 1 (Brumm et al., 2021)
 </div>
@@ -133,6 +139,7 @@ Cave art represents one of the most prominent forms of Upper Paleolithic aesthet
 In addition to cave paintings, the Upper Paleolithic is characterized by a rich tradition of portable art, including small carvings and sculptures made from stone, bone, ivory, and clay <d-cite key="robb2015prehistoric,layton1991anthropology"></d-cite>. Among the most prominent examples are the so-called Venus figurines, typically depicting highly stylized female forms with exaggerated breasts, abdomens, and hips, and minimal facial detail. These figurines are widely distributed across Europe and date primarily to between ~35 and 25 ka, with examples including the ivory Venus from Hohle Fels in Germany (~35 ka) <d-cite key="conard2009female"></d-cite> and the ceramic figurine from Dolní Věstonice (~27 ka) <d-cite key="vandiver1989origins"></d-cite>, to date the oldest ceramic documented. While their precise meanings remain debated, these objects are often interpreted as symbolic representations related to fertility, embodiment, mythological thought, or social identity rather than purely decorative artifacts.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/07VenusFigurine.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     (a) Fragmentary Dolní Věstonice Venus figurine; (b) Bear figurine; (c) Lioness figurine head from Dolní Věstonice (Vandiver, 1989) 
 </div>
@@ -140,6 +147,7 @@ In addition to cave paintings, the Upper Paleolithic is characterized by a rich 
 Aesthetic engagement during this period also extended beyond the visual domain to include music and performative practices. Archaeological evidence for early musical traditions comes from bone and ivory flutes dated to ~35–40 ka, discovered at sites in southwestern Germany such as Hohle Fels <d-cite key="conard2009new"></d-cite> and Geissenklösterle <d-cite key="higham2012tauesting"></d-cite>. These instruments, crafted from bird bones and mammoth ivory and featuring carefully spaced finger holes, indicate the production of structured melodies and reflect sophisticated technical and acoustic knowledge (. Music is widely interpreted as having played an important role in Upper Paleolithic social life, potentially supporting ritual activities, group coordination, and social bonding <d-cite key="dunbar2012evolutionary"></d-cite>. Although dance has no direct material evidence in the archaeological record, indirect evidence, combined with ethnographic analogy from recent hunter-gatherer societies, suggests that coordinated movement and communal performance likely formed part of collective ceremonies, contributing to emotional synchronization, narrative transmission, and the reinforcement of group identity <d-cite key="grosse1897beginnings"></d-cite>.
 
 {% include figure.liquid path="assets/img/2026-01-06-aesthetics/08BoneFlute.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Bone flute from Hohle Fels archaeological horizon Vb (Conard et al., 2009)
 </div>
