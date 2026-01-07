@@ -22,7 +22,7 @@ typograms: true
 authors:
   - name: Ruoying Zheng
     affiliations:
-          name: IAS, Princeton
+      name: IAS, Princeton
 
 bibliography: 2026-01-06-aesthetics.bib
 
