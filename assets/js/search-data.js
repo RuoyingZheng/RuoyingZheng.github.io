@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/aesthetic-mind/";
           
         },
+      },{id: "post-tants-outperform-humans",
+        
+          title: "TAnts Outperform Humans?",
+        
+        description: "A recent study finds that ants benefit from group cooperation, whereas humans do not.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/group-cooperation/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
