@@ -36,7 +36,7 @@ toc:
       - name: Cultural evolution: the social brain and group survival
       - name: Co-evolution: the dual inheritance of genes and culture
   - name: Conclusion
-
+    
 _styles: >
   .fake-img {
     background: #bbb;
