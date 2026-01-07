@@ -49,8 +49,7 @@ _styles: >
 
 On March 25, 2020, United Nations Secretary-General António Guterres launched a [**$2 billion coordinated global humanitarian response plan**](https://press.un.org/en/2020/sgsm20021.doc.htm), emphasizing that global cooperation was the only way to combat the COVID-19 epidemic.
 
-While the disaster may seem behind us, its consequences for humans remain indelible. Between January 1, 2020, and December 31, 2021, the total number of deaths directly or indirectly related to the COVID-19 pandemic reached approximately [**14.9 million**](https://www.who.int/news/item/05-05-2022-14.9-million-excess-deaths-were-associated-with-the-covid-19-pandemic-in-2020-and-2021).  
-The global economy is experiencing its worst recession since World War II and has not yet fully recovered.
+While the disaster may seem behind us, its consequences for humans remain indelible. Between January 1, 2020, and December 31, 2021, the total number of deaths directly or indirectly related to the COVID-19 pandemic reached approximately [**14.9 million**](https://www.who.int/news/item/05-05-2022-14.9-million-excess-deaths-were-associated-with-the-covid-19-pandemic-in-2020-and-2021). The global economy is experiencing its worst recession since World War II and has not yet fully recovered.
 
 ## The Fragility of Human Cooperation
 
