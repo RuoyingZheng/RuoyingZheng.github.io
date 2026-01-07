@@ -32,7 +32,7 @@ toc:
   - name: The art explosion in upper paleolithic
   - name: Why aesthetics emerges and evolves
   - name: Conclusion
-    
+
 _styles: >
   .fake-img {
     background: #bbb;
