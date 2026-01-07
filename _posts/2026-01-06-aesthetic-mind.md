@@ -26,6 +26,7 @@ bibliography: 2026-01-06-aesthetics.bib
 
 toc:
   sidebar: left
+  -name: The origin of human aesthetics
     
 _styles: >
   .fake-img {
