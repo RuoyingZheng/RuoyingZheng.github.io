@@ -26,13 +26,15 @@ bibliography: 2026-01-06-aesthetics.bib
 
 toc:
   - name: The origin of human aesthetics
-  - name: The dawn of art in the early paleolithic
-  - name: The emergence of symbols in the middle paleolithic
-  - name: The art explosion in upper paleolithic
+    subsections:
+      - name: The dawn of art in the early paleolithic
+      - name: The emergence of symbols in the middle paleolithic
+      - name: The art explosion in upper paleolithic
   - name: Why aesthetics emerges and evolves
-  - name: Biological foundations: The driving force of survival and reproduction
-  - name: Cultural evolution: the social brain and group survival
-  - name: Co-evolution: the dual inheritance of genes and culture
+    subsections:
+      - name: Biological foundations: The driving force of survival and reproduction
+      - name: Cultural evolution: the social brain and group survival
+      - name: Co-evolution: the dual inheritance of genes and culture
   - name: Conclusion
 
 _styles: >
@@ -71,3 +73,17 @@ Exploring human aesthetic minds, therefore, is not simply about how we appreciat
 ## The origin of human aesthetics
 
 ### The dawn of art in the early paleolithic
+
+### The emergence of symbols in the middle paleolithic
+
+### The art explosion in upper paleolithic
+
+## Why aesthetics emerges and evolves
+
+### Biological foundations: The driving force of survival and reproduction
+
+### Cultural evolution: the social brain and group survival
+
+### Co-evolution: the dual inheritance of genes and culture
+
+## Conclusion
