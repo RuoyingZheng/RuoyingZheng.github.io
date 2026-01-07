@@ -82,7 +82,7 @@ The results were striking:
 
 ## Simple Rules and Emergent Intelligence
 
-Why do ants, with their seemingly *simple minds*, benefit from cooperation, while humans, with their *complex brains*, struggle?
+Why do ants, with their seemingly *simple minds*, benefit from cooperation, while humans, with their _complex brains_, struggle?
 
 The answer lies in **different modes of cooperation**.
 
@@ -90,13 +90,13 @@ Ants follow **simple behavioral rules**. They may not understand complex geometr
 
 As these local actions accumulate, they give rise to powerful collective cognitive capacities—an example of [emergent intelligence](https://en.wikipedia.org/wiki/Emergence).
 
-This phenomenon is also observed in [bird flocks]([https://en.wikipedia.org/wiki/Flocking_(behavior)](https://www.pnas.org/doi/full/10.1073/pnas.1005766107)). During migration, birds adjust their movements based on the positions of nearby neighbors. Information about direction and movement propagates rapidly through the group, enabling efficient coordination without centralized control.
+This phenomenon is also observed in [bird flocks](https://www.pnas.org/doi/full/10.1073/pnas.1005766107). During migration, birds adjust their movements based on the positions of nearby neighbors. Information about direction and movement propagates rapidly through the group, enabling efficient coordination without centralized control.
 
 ---
 
 ## Why Human Groups Underperform
 
-Humans, on the other hand, often lose out to individual *wisdom*.
+Humans, on the other hand, often lose out to _individual wisdom_.
 
 Each person possesses independent cognitions and beliefs. When communication is restricted, groups tend to converge quickly on **obvious or intuitive solutions**, prioritizing consensus over exploration. As a result, potentially optimal but non-obvious strategies are abandoned.
 
@@ -122,7 +122,7 @@ However, the wisdom of crowds is fragile. When individuals are exposed to others
 
 ## Rethinking Cooperation
 
-We often say *“strength in numbers”*, but both nature and human society reveal a paradox worth pondering:
+We often say _“strength in numbers”_, but both nature and human society reveal a paradox worth pondering:
 
 > Creatures following simple rules can display powerful collective intelligence,  
 > while humans, endowed with complex cognition, may fall into group inefficiency.
