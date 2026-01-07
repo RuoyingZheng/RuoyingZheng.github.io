@@ -28,8 +28,11 @@ bibliography: 2026-01-06-aesthetics.bib
 
 toc:
   sidebar: left
-  -name: The origin of human aesthetics
   -name: The dawn of art in the early paleolithic
+  -name: The emergence of symbols in the middle paleolithic
+  -name: The art explosion in upper paleolithic
+  -name: Why aesthetics emerges and evolves
+  -name: Conclusion
     
 _styles: >
   .fake-img {
@@ -64,9 +67,7 @@ To understand human aesthetic minds, we must first break free from the shackles 
 
 Exploring human aesthetic minds, therefore, is not simply about how we appreciate a painting or a piece of music; it is fundamentally about understanding how the human mind has been shaped over millions of years of hunter-gatherer life. If aesthetic capacity is the product of a coevolution between genes and culture, then to find its origin, we must return to the very source of human creation.
 
-## The origin of human aesthetics
-
-### The dawn of art in the early paleolithic
+## The dawn of art in the early paleolithic
 
 Archaeological evidence from the Lower Paleolithic suggests that the cognitive foundations of human aesthetics and art began to emerge long before the appearance of fully symbolic behavior. In the absence of explicit symbolic artefacts, such early developments are inferred indirectly from patterns in stone tool production.
 
@@ -90,9 +91,9 @@ The engraving on shells by the Homo erectus at the Trinil site on Java (Joordens
 
 Taken together, early hominins had already developed sensitivities to symmetric pattern and visual form. While isolated instances of abstract mark-making may have occurred, aesthetic preference at this stage appear to have remained grounded in biologically predispositions, shaped by genetic inheritance rather than cumulative cultural transmission.
 
-### The emergence of symbols in the middle paleolithic
+## The emergence of symbols in the middle paleolithic
 
-### The art explosion in upper paleolithic
+## The art explosion in upper paleolithic
 
 ## Why aesthetics emerges and evolves
 
