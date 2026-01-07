@@ -31,7 +31,7 @@ toc:
       - name: The emergence of symbols in the middle paleolithic
       - name: The art explosion in upper paleolithic
   - name: Why aesthetics emerges and evolves
-    - subsections:
+    subsections:
       - name: Biological foundations: The driving force of survival and reproduction
       - name: Cultural evolution: the social brain and group survival
       - name: Co-evolution: the dual inheritance of genes and culture
