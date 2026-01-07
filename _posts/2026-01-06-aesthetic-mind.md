@@ -26,7 +26,7 @@ bibliography: 2026-01-06-aesthetics.bib
 
 toc:
   - name: The origin of human aesthetics
-    - subsections:
+    subsections:
       - name: The dawn of art in the early paleolithic
       - name: The emergence of symbols in the middle paleolithic
       - name: The art explosion in upper paleolithic
@@ -36,7 +36,6 @@ toc:
       - name: Cultural evolution: the social brain and group survival
       - name: Co-evolution: the dual inheritance of genes and culture
   - name: Conclusion
-  sidebar: left
 ---
 
 > Heaven and earth have their great beauties but do not speak of them;  
