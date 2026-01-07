@@ -49,9 +49,9 @@ _styles: >
   }
 ---
 
-<a href="https://mp.weixin.qq.com/s?__biz=MzIyNjIzODM3Mg==&tempkey=MTM1Nl83T0FNcGhKd3B6Vkk1M1NjUF9NNGVzeURBNlk5VjhkWllobXlSSHlTel9zekJud0tQbm1tS21KRUs5d1p3OGltZktwWGFwZkdUdlN6SjRXN3AtN0FpMWUyWlRUTFVHM1Rfdms0Y2JDMmFKd2piRTVCUFpYLTc3MDZQZTZJcHlTMnJoajk3c0ZQZlBWd21kUWNCUmRTNGlRXzlwOTNNZUg4TWpWdlpRfn4%3D&chksm=7069173f471e9e294fa8d9353b0d7c34b5866d4112a684ea7e3857a37b88488620e63822faa9#rd"
-   style="color: #999; text-decoration: none;">
-[ Chinese version ]
+<a href="https://mp.weixin.qq.com/s/ZDTGXowvRKtDVvon1Jj3vw"
+   style="color:#999; text-decoration:none;">
+[Chinese version]
 </a>
 
 > Heaven and earth have their great beauties but do not speak of them;  
