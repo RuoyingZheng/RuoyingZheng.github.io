@@ -64,6 +64,28 @@ Exploring human aesthetic minds, therefore, is not simply about how we appreciat
 
 ### The dawn of art in the early paleolithic
 
+Archaeological evidence from the Lower Paleolithic suggests that the cognitive foundations of human aesthetics and art began to emerge long before the appearance of fully symbolic behavior. In the absence of explicit symbolic artefacts, such early developments are inferred indirectly from patterns in stone tool production.
+
+The earliest stone tools, associated with the Oldowan tradition and dating to ~2.5 million years ago, consist primarily of flakes and cores produced by direct percussion of stone nodules using hammerstones <d-cite key="mithen2003handaxes,wynn2002archaeology"></d-cite>. These artefacts, made from materials such as basalt, flint, and limestone, were used in a variety of practical contexts, including the processing of animal carcasses, nut cracking, plant cutting, bark stripping, digging, honey harvesting, and possibly throwing at prey. However, Oldowan tools lack any imposed overall shape: their final form largely reflects the original geometry of the raw material and the number of flakes removed, rather than an internally represented design.
+
+A major shift occurs around 1.4 Ma with the emergence of Acheulean (named after stone tools found near St Acheul in France, but produced a million year earlier in Africa already) bifacial tools, commonly referred to as handaxes <d-cite key="mithen2003handaxes,wynn2002archaeology"></d-cite>. Unlike Oldowan artefacts, early Acheulean handaxes exhibit deliberately imposed overall form and bilateral symmetry. These forms become increasingly pronounced in the later Acheulean, particularly between ~500–300 ka, when handaxes display high degrees of congruency and consistency in symmetry that exceed what is strictly required for functional tasks such as cutting or butchery. In addition to their carefully controlled form, many handaxes were produced from visually distinctive raw materials, such as stones with smooth, lustrous surfaces or fossil inclusions <d-cite key="kuhn2007paleolithic"></d-cite>. These Acheulean handaxes may therefore constitute some of the earliest material evidence for the emergence of human aesthetic preference, suggesting that early hominins were attentive to how artefacts appeared, not merely to what they did.
+
+The extraordinary temporal and geographic stability of Acheulean handaxes over more than 1.5 Ma is difficult to reconcile with cultural transmission models, which typically predict copying error, innovation, and regional divergence <d-cite key="corbey2016acheulean"></d-cite>. Such long-term consistency suggests that key aspects of handaxe production may have been under partial genetic constraint, comparable to genetically nest building by birds. At the same time, the aesthetic elaboration of handaxes depended on advances in cognitive capacities <d-cite key="wynn2002archaeology"></d-cite>. Producing consistent bilateral symmetry and controlled overall form required coordination across multiple viewpoints, mental rotation, basic spatial reasoning, and stable representations of tools as structured objects. These shared cognitive prerequisites enabled early hominins to reliably reproduce similar forms across individuals and generations. Taken together, these considerations suggest that Acheulean handaxes are best understood not primarily as culturally symbolic artefacts, but as material expressions of evolutionarily stabilized aesthetic predispositions, grounded in both inherited biases and emerging cognitive abilities.
+
+{% include figure.liquid path="assets/img/2026-01-06-aesthetics/01Acheuleanhandaxes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p style="text-align: center;">
+Acheulean handaxes (Mithen, 2003)
+</p>
+
+Evidence from the Lower Paleolithic is not limited to the aesthetic elaboration of utilitarian tools. At the Homo erectus site of Trinil in Java, a freshwater mussel shell dated to ~500 ka was found bearing a deliberately engraved zigzag-like geometric pattern <d-cite key="joordens2015homo"></d-cite>. These incisions were intentionally produced by hominins, rather than resulting from natural abrasion or taphonomic processes. Although the function or meaning of the engraving cannot currently be determined, the presence of such deliberate geometric incisions, often considered markers of modern cognition and behavior, provides tentative evidence that _Homo erectus_ may already have possessed an emerging capacity for symbolic meaning and rudimentary aesthetic capacity of symbolic art. In this early stage, aesthetic preferences also appear to have been expressed as an interest in visually unusual objects. Archaeological evidence indicates that early hominins, including _Homo erectus_ and _Neanderthals_, collected and transported items such as crystals, fossils, or stones with distinctive shapes <d-cite key="kuhn2007paleolithic"></d-cite>.
+
+{% include figure.liquid path="assets/img/2026-01-06-aesthetics/02TrinilShell.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<p style="text-align: center;">
+The engraving on shells by the Homo erectus at the Trinil site on Java (Joordens et al., 2015)
+</p>
+
+Taken together, early hominins had already developed sensitivities to symmetric pattern and visual form. While isolated instances of abstract mark-making may have occurred, aesthetic preference at this stage appear to have remained grounded in biologically predispositions, shaped by genetic inheritance rather than cumulative cultural transmission.
+
 ### The emergence of symbols in the middle paleolithic
 
 ### The art explosion in upper paleolithic
