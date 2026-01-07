@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-human-aesthetic-mind",
+        },{id: "post-",
         
-          title: "The human aesthetic mind",
+          title: "",
         
-        description: "The origin and evolution of human aesthetic mind",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/aesthetic-mind/";
+            window.location.href = "/blog/2026/2026-01-06-aesthetic-mind/";
           
         },
       },{id: "books-the-godfather",
