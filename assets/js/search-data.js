@@ -50,7 +50,7 @@ ninja.data = [{
         },
       },{id: "post-ants-outperform-humans",
         
-          title: "Ants Outperform Humans?",
+          title: "Ants outperform humans?",
         
         description: "A recent study finds that ants benefit from group cooperation, whereas humans do not.",
         section: "Posts",
