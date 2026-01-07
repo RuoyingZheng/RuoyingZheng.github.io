@@ -28,7 +28,12 @@ authors:
 bibliography:
 
 toc:
-  sidebar: left
+  - name: The Fragility of Human Cooperation
+  - name: When Ants Cooperate Better Than Humans
+  - name: Simple Rules and Emergent Intelligence
+  - name: Why Human Groups Underperform
+  - name: The Fragile Wisdom of Crowds
+  - name: Rethinking Cooperation
 
 _styles: >
   .fake-img {
@@ -61,8 +66,6 @@ As a result, the pandemic lasted longer, spread more widely, and led to a higher
 
 > **Can humans truly benefit from cooperation, especially in the face of public crises?**
 
----
-
 ## When Ants Cooperate Better Than Humans
 
 [A recent study](https://www.pnas.org/doi/abs/10.1073/pnas.2414274121?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) provides some answers to this question: **ants benefit from group cooperation, whereas humans lose out**.
@@ -78,11 +81,9 @@ The results were striking:
 - In contrast, human performance declined as group size grew, even falling below individual performance.
 - Only when communication was allowed did human group performance approach that of individuals.
 
----
-
 ## Simple Rules and Emergent Intelligence
 
-Why do ants, with their seemingly *simple minds*, benefit from cooperation, while humans, with their _complex brains_, struggle?
+Why do ants, with their seemingly _simple minds_, benefit from cooperation, while humans, with their _complex brains_, struggle?
 
 The answer lies in **different modes of cooperation**.
 
@@ -92,8 +93,6 @@ As these local actions accumulate, they give rise to powerful collective cogniti
 
 This phenomenon is also observed in [bird flocks](https://www.pnas.org/doi/full/10.1073/pnas.1005766107). During migration, birds adjust their movements based on the positions of nearby neighbors. Information about direction and movement propagates rapidly through the group, enabling efficient coordination without centralized control.
 
----
-
 ## Why Human Groups Underperform
 
 Humans, on the other hand, often lose out to _individual wisdom_.
@@ -101,8 +100,6 @@ Humans, on the other hand, often lose out to _individual wisdom_.
 Each person possesses independent cognitions and beliefs. When communication is restricted, groups tend to converge quickly on **obvious or intuitive solutions**, prioritizing consensus over exploration. As a result, potentially optimal but non-obvious strategies are abandoned.
 
 When communication is free, a different problem arises. Rather than selecting the most competent leader, groups often follow a randomly chosen or most vocal member. Social influence and conformity undermine the integration of diverse perspectives. Consequently, even communication does not guarantee optimal collective decisions.
-
----
 
 ## The Fragile Wisdom of Crowds
 
@@ -118,8 +115,6 @@ However, the wisdom of crowds is fragile. When individuals are exposed to others
 - Maintain a clear division of labor
 - Aggregate decisions only after independent reasoning
 
----
-
 ## Rethinking Cooperation
 
 We often say _“strength in numbers”_, but both nature and human society reveal a paradox worth pondering:
@@ -130,8 +125,6 @@ We often say _“strength in numbers”_, but both nature and human society reve
 In complex tasks, the effectiveness of cooperation depends not on individual intelligence, but on whether individual behaviors can be transformed into **orderly collective mechanisms**.
 
 In public crises, failure to cooperate can be fatal. To make human cooperation truly effective, structured coordination is essential—one that encourages independent thought first, followed by the integration of diverse perspectives.
-
----
 
 ## Looking Forward
 
