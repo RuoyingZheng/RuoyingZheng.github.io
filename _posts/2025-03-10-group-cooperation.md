@@ -1,12 +1,12 @@
 ---
 layout: post
-title: TAnts Outperform Humans?
+title: Ants Outperform Humans?
 description: A recent study finds that ants benefit from group cooperation, whereas humans do not.
 tags: cooperation collective intelligence cognition
 categories: pitch
 giscus_comments: true
 date: 2025-03-10 03:02:00-0800
-featured: true
+featured: false
 mermaid:
   enabled: true
   zoomable: true
@@ -28,6 +28,7 @@ authors:
 bibliography:
 
 toc:
+  sidebar: left
 
 _styles: >
   .fake-img {
@@ -46,21 +47,16 @@ _styles: >
   }
 ---
 
-On March 25, 2020, United Nations Secretary-General  
-[António Guterres](https://www.un.org/sg/en/content/sg/statement/2020-03-25/secretary-generals-remarks-the-launch-of-the-global-humanitarian-response-plan-covid-19-delivered)  
-launched a **$2 billion coordinated global humanitarian response plan**, emphasizing that global cooperation was the only way to combat the COVID-19 epidemic.
+On March 25, 2020, United Nations Secretary-General António Guterres launched a [**$2 billion coordinated global humanitarian response plan**](https://press.un.org/en/2020/sgsm20021.doc.htm), emphasizing that global cooperation was the only way to combat the COVID-19 epidemic.
 
-While the disaster may seem behind us, its consequences for humans remain indelible. Between January 1, 2020, and December 31, 2021, the total number of deaths directly or indirectly related to the COVID-19 pandemic reached approximately **14.9 million**  
-([WHO estimate](https://www.who.int/data/stories/global-excess-deaths-associated-with-covid-19-january-2020-december-2021)).  
+While the disaster may seem behind us, its consequences for humans remain indelible. Between January 1, 2020, and December 31, 2021, the total number of deaths directly or indirectly related to the COVID-19 pandemic reached approximately [**14.9 million**](https://www.who.int/news/item/05-05-2022-14.9-million-excess-deaths-were-associated-with-the-covid-19-pandemic-in-2020-and-2021).  
 The global economy is experiencing its worst recession since World War II and has not yet fully recovered.
 
 ## The Fragility of Human Cooperation
 
 Looking back, the pandemic exposed the fragility of global cooperation. Differences in interests, cognitions, and political positions among nations, organizations, and individuals led to inconsistencies in anti-pandemic measures, unequal resource distribution, and the spread of rumors and misinformation.
 
-The varying response strategies of the  
-[World Health Organization (WHO)](https://www.who.int/)  
-and national governments fragmented pandemic control efforts and caused missed opportunities for early intervention. Discrepancies in information among individuals—such as whether masks were effective or whether vaccines were safe—fostered public distrust of official advice, reducing the efficiency of cooperation.
+The varying response strategies of the World Health Organization (WHO) and national governments fragmented pandemic control efforts and caused missed opportunities for early intervention. Discrepancies in information among individuals—such as whether masks were effective or whether vaccines were safe—fostered public distrust of official advice, reducing the efficiency of cooperation.
 
 As a result, the pandemic lasted longer, spread more widely, and led to a higher death toll. This raises a critical question:
 
@@ -70,11 +66,9 @@ As a result, the pandemic lasted longer, spread more widely, and led to a higher
 
 ## When Ants Cooperate Better Than Humans
 
-A recent study provides some answers to this question: **ants benefit from group cooperation, whereas humans lose out**.
+[A recent study](https://www.pnas.org/doi/abs/10.1073/pnas.2414274121?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) provides some answers to this question: **ants benefit from group cooperation, whereas humans lose out**.
 
-In this study, both ants and humans were tasked with solving a  
-[piano-movers puzzle](https://en.wikipedia.org/wiki/Piano_mover%27s_problem).  
-The challenge required participants to transport a T-shaped object from its initial location in the left-most chamber, through the second chamber, and into the third chamber.
+In this study, both ants and humans were tasked with solving a [piano-movers puzzle](https://en.wikipedia.org/wiki/Piano_mover%27s_problem). The challenge required participants to transport a T-shaped object from its initial location in the left-most chamber, through the second chamber, and into the third chamber.
 
 Ants and humans were divided into **individual**, **small-group**, and **large-group** conditions, with two communication settings: **free communication** and **restricted communication**.
 
@@ -95,12 +89,9 @@ The answer lies in **different modes of cooperation**.
 
 Ants follow **simple behavioral rules**. They may not understand complex geometric structures, but each ant adheres to a straightforward rule known as the **right-hand rule**: when navigating a maze, an ant keeps one side of its body in contact with a wall and moves forward without changing direction.
 
-As these local actions accumulate, they give rise to powerful collective cognitive capacities—an example of  
-[emergent intelligence](https://en.wikipedia.org/wiki/Emergence).
+As these local actions accumulate, they give rise to powerful collective cognitive capacities—an example of [emergent intelligence](https://en.wikipedia.org/wiki/Emergence).
 
-This phenomenon is also observed in  
-[bird flocks](https://en.wikipedia.org/wiki/Flocking_(behavior)).  
-During migration, birds adjust their movements based on the positions of nearby neighbors. Information about direction and movement propagates rapidly through the group, enabling efficient coordination without centralized control.
+This phenomenon is also observed in [bird flocks]([https://en.wikipedia.org/wiki/Flocking_(behavior)](https://www.pnas.org/doi/full/10.1073/pnas.1005766107)). During migration, birds adjust their movements based on the positions of nearby neighbors. Information about direction and movement propagates rapidly through the group, enabling efficient coordination without centralized control.
 
 ---
 
@@ -116,14 +107,13 @@ When communication is free, a different problem arises. Rather than selecting th
 
 ## The Fragile Wisdom of Crowds
 
-This outcome contrasts with the well-known principle of the  
-[wisdom of crowds](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd).
+This outcome contrasts with the well-known principle of the [wisdom of crowds](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd).
 
-Research shows that while a single individual’s judgment may deviate substantially from the true value, aggregating **multiple independent estimates** often yields remarkably accurate results—sometimes even outperforming experts.
+Research has shown that in [guessing](https://www.nature.com/articles/075450a0) and [problem-solving tasks](https://academic.oup.com/rfs/article/18/3/955/1617661), while a single individual's guess may deviate significantly from the true value, aggregating **multiple independent estimates** often yields remarkably accurate results, sometimes even outperforming experts.
 
-This effect extends beyond numerical estimation. Individuals working independently can recall more non-redundant information and generate more ideas than the same number of people brainstorming together.
+This effect extends beyond numerical estimation. Individuals working independently can [recall more non-redundant information](https://pmc.ncbi.nlm.nih.gov/articles/PMC4309738/) and [generate more ideas](https://www.sciencedirect.com/science/article/pii/S0022103105000600) than the same number of people brainstorming together.
 
-However, the wisdom of crowds is fragile. When individuals are exposed to others’ opinions before forming their own judgments, **social conformity** reduces diversity and accuracy. To effectively harness collective intelligence, individuals must:
+However, the wisdom of crowds is fragile. When individuals are exposed to others’ opinions before forming their own judgments, [**social conformity** reduces diversity and accuracy](https://www.pnas.org/doi/full/10.1073/pnas.1008636108). To effectively harness collective intelligence, individuals must:
 
 - Make judgments independently
 - Maintain a clear division of labor
