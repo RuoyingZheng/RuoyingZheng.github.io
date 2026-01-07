@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "The human aesthetic mind",
         
-        description: "The origin and evolution of human aesthetic mind",
+        description: "The origin and evolution of human aesthetics and arts",
         section: "Posts",
         handler: () => {
           
