@@ -29,6 +29,8 @@ bibliography: 2026-01-06-aesthetics.bib
 toc:
   sidebar: left
   -name: The origin of human aesthetics
+    subsections:
+      -name: The dawn of art in the early paleolithic
     
 _styles: >
   .fake-img {
