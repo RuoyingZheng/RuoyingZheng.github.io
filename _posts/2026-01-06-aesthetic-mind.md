@@ -51,7 +51,7 @@ _styles: >
   }
 ---
 
-<a href="https://mp.weixin.qq.com/s/ZDTGXowvRKtDVvon1Jj3vw"
+<a href="https://mp.weixin.qq.com/s/lrQkDMGPAudi4mAHsRHpSQ"
    style="color:#999; text-decoration:none;">
 [Chinese version]
 </a>
