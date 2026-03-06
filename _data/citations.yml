@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-03-06'
 papers:
   cRzdQqgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: "Unveiling the \u201CLess is More\u201D paradox: How experience and cognitive filling drive attractiveness in occluded faces"
     year: '2025'
+  cRzdQqgAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'The paradox of trait impressions in naturalistic contexts: rich information, minimal cue use'
+    year: Unknown Year
   cRzdQqgAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'The paradox of trait impressions in naturalistic contexts: rich information, sparse predictive cues'
@@ -38,7 +42,7 @@ papers:
     title: Vitality makes dynamic faces more attractive than static faces
     year: '2021'
   cRzdQqgAAAAJ:u5HHmVD_uO8C:
-    citations: 33
+    citations: 35
     title: Normality mediates the effect of symmetry on facial attractiveness
     year: '2021'
   cRzdQqgAAAAJ:zYLM7Y9cAGgC:
