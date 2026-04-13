@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-13'
 papers:
   cRzdQqgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: The holistic representation of facial attractiveness and the attractiveness enhancement mechanism of dynamic faces
     year: '2022'
   cRzdQqgAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: 'Spirit behind appearance: Facial motion increases facial attractiveness through perceived vitality.'
     year: '2025'
   cRzdQqgAAAAJ:u-x6o8ySG0sC:
@@ -45,7 +45,11 @@ papers:
     citations: 35
     title: Normality mediates the effect of symmetry on facial attractiveness
     year: '2021'
+  cRzdQqgAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: The holistic representation of facial attractiveness and the attractiveness enhancement mechanism of dynamic faces
+    year: '2022'
   cRzdQqgAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: A tutorial on representational similarity analysis for research in social cognition
     year: '2025'
