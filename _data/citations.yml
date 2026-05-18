@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-18'
 papers:
   cRzdQqgAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: My group is more important than yours in the Cheerleader Effect of facial attractiveness perception
     year: '2022'
   cRzdQqgAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: Cues driving trait impressions in naturalistic contexts are sparse
     year: '2024'
   cRzdQqgAAAAJ:UeHWp8X0CEIC:
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: 'Investigating the Structure of Emotion: Tools, Pitfalls and Recommendations'
     year: '2025'
+  cRzdQqgAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Facial and body actions speak louder than context when inferring facial expressions of emotions in naturalistic images
+    year: Unknown Year
   cRzdQqgAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: The holistic representation of facial attractiveness and the attractiveness enhancement mechanism of dynamic faces
